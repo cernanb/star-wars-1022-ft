@@ -1,3 +1,3 @@
-module StarWars1022
+module StarWars
   VERSION = "0.1.0"
 end

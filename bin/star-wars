@@ -1,0 +1,5 @@
+
+
+require_relative "../lib/star_wars_1022"
+
+StarWars::CLI.new.start
